@@ -1,1 +1,1 @@
-# Laravel project for Bambini Fashion task
+# Laravel project for BFashion task
